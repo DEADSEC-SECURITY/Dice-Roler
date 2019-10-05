@@ -1,18 +1,23 @@
-DONATIONS
+**DONATIONS**
 
 If you enjoyed the script and found it useful, you can support the project making a donation. Sending a fraction of any of these cryptocurrencies. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
-BitCoin Wallet: 1JFMYXkUzwtsrx3L5HDvJ9G2QXnDCm5wvz
+BitCoin Wallet: 1NQfnb7kBT8DevaU8i6krnVsNvKv9q3zTP
 
-Ethereum Wallet: 0xf2fCa59c1CAF7533FaB5eED88ECa3B161e1Bc5B3
+Dash Wallet: Xch4pGxGLgCiZaVVDpUqrq4LbsHEdzXydP
 
-PayPal: mariana0407@outlook.pt
+Ethereum Wallet: 0xc4C57aE36Da0f9222fC8A1c6F2e23Da14c41d514
 
-CREADITS
+Bitcoin Cash Wallet: 16Lu6na5ES7qGLcnJJWAAnXGvNxWX94cGS
+
+Brave donations: https://brave.com/dea060
+
+
+**CREADITS**
 
 Script Owner: DeAdSeC
 
-CONTRIBUTIONS
+**CONTRIBUTIONS
 
 Adding more distribution support compatibility!
 
@@ -20,7 +25,7 @@ Adding and suggesting new features!
 
 Testing and sending feedback Donating!
 
-CONTACT
+**CONTACT
 
 Email: amng835@gmail.com
 
